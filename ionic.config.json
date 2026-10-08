@@ -1,0 +1,7 @@
+{
+  "name": "field-inspector",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
